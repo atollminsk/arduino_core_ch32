@@ -460,6 +460,22 @@ CH32V20x_EVT.menu.pnum.CH32V203RB.build.math_lib_gcc=-lm
 CH32V20x_EVT.menu.pnum.CH32V203RB.build.IQ_math_RV32=
 CH32V20x_EVT.menu.pnum.CH32V203RB.build.ch_extra_lib=-lprintf
 
+#CH32V208WB EVT Board
+CH32V20x_EVT.menu.pnum.CH32V208WB=CH32V208WB EVT
+CH32V20x_EVT.menu.pnum.CH32V208WB.node=NODE_V208WB
+CH32V20x_EVT.menu.pnum.CH32V208WB.upload.maximum_size=131072
+CH32V20x_EVT.menu.pnum.CH32V208WB.upload.maximum_data_size=65536
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.mcu=QingKe-V4C
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.board=CH32V208WB
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.series=CH32V20x
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.variant=CH32V20x/CH32V208WB
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.chip=CH32V208
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.march=rv32imacxw
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.mabi=ilp32
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.math_lib_gcc=-lm
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.IQ_math_RV32=
+CH32V20x_EVT.menu.pnum.CH32V208WB.build.ch_extra_lib=-lprintf
+
 #CH32V203G8 EVT Board
 CH32V20x_EVT.menu.pnum.CH32V203G8=CH32V203G8 EVT
 CH32V20x_EVT.menu.pnum.CH32V203G8.node=NODE_V203G8
